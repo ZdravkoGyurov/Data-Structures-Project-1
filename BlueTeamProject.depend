@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1508700187 source:d:\c++\blueteamproject\letter.cpp
+	"Letter.h"
+	<cstring>
+
+1508700132 d:\c++\blueteamproject\letter.h
+	<iostream>
+
+1508702625 source:d:\c++\blueteamproject\resizingqueue.cpp
+	"ResizingQueue.h"
+	<iostream>
+	<stdexcept>
+
+1508613413 d:\c++\blueteamproject\resizingqueue.h
+	<iostream>
+
+1508702169 source:d:\c++\blueteamproject\resizingstack.cpp
+	"ResizingStack.h"
+	<iostream>
+	<stdexcept>
+
+1508613459 d:\c++\blueteamproject\resizingstack.h
+	<iostream>
+
+1508671322 source:d:\c++\blueteamproject\mailbox.cpp
+	<iostream>
+	"ResizingStack.h"
+	"Letter.h"
+	<cstring>
+	<stdexcept>
+
+1508687551 source:d:\c++\blueteamproject\main.cpp
+	<iostream>
+	<cstring>
+	<stdexcept>
+	"ResizingStack.cpp"
+	"ResizingQueue.cpp"
+	"Letter.h"
+	"Post.cpp"
+
+1508687584 d:\c++\blueteamproject\resizingstack.cpp
+	"ResizingStack.h"
+	<iostream>
+	<stdexcept>
+
+1508686881 d:\c++\blueteamproject\resizingqueue.cpp
+	"ResizingQueue.h"
+	<iostream>
+	<stdexcept>
+
+1508671322 d:\c++\blueteamproject\mailbox.cpp
+	<iostream>
+	"ResizingStack.h"
+	"Letter.h"
+	<cstring>
+	<stdexcept>
+
+1508701214 source:d:\c++\blueteamproject\post.cpp
+	<iostream>
+	<cstring>
+	<stdexcept>
+	"ResizingStack.h"
+	"Letter.h"
+
+1508678507 d:\c++\blueteamproject\post.cpp
+	<iostream>
+	<cstring>
+	<stdexcept>
+	"ResizingStack.h"
+	"Letter.h"
+
